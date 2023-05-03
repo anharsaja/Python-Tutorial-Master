@@ -1,28 +1,28 @@
 # Python
-# Project Title
 
-A short description about the project and/or client.
+Beberapa modul yang penting dalam statistika dan clustering
 
-## Getting Started
+## Clustering
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Apa yang dimaksud dengan clustering?
+Clustering adalah proses partisi satu set objek data ke dalam himpunan bagian yang disebut dengan cluster. Maka itu, metode clustering ini berguna untuk menemukan kelompok yang tidak dikenal dalam data. Dalam business inteligence, clustering bisa mengelompokkan banyak customer ke beberapa kelompok.
 
 ### Prerequisites
 
 The things you need before installing the software.
 
-* You need this
-* And you need this
-* Oh, and don't forget this
+* VS Code
+* Python/py & ipynb
+* import module KMeans, KModeds, matplotlib, etc
+* import all module on the file
 
 ### Installation
 
 A step by step guide that will tell you how to get the development environment up and running.
 
 ```
-$ First step
-$ Another step
-$ Final step
+$ pip install <name module> 
+
 ```
 
 ## Usage
@@ -30,24 +30,13 @@ $ Final step
 A few examples of useful commands and/or tasks.
 
 ```
-$ First example
-$ Second example
-$ And keep this in mind
+$ pip install KModeds
+
 ```
-
-## Deployment
-
-Additional notes on how to deploy this on a live or release system. Explaining the most important branches, what pipelines they trigger and how to update the database (if anything special).
-
-### Server
-
-* Live:
-* Release:
-* Development:
 
 ### Branches
 
-* Master:
+* Master: Anhar Mukhlis
 * Feature:
 * Bugfix:
 * etc...
